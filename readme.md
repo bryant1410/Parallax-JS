@@ -30,6 +30,6 @@ Add properties to your elements, e.g. `<section anim-pause="200">`
 
 include `side-nav.js` to add an auto-generated side navigation bar.  This bar is generated from all `section h2:first` elements.
 
-##Features
+## Features
 
 All animations are done using CSS3 transformations whenever possible and fall back to normal CSS positioning when necessary.
